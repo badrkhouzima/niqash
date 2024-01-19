@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  font-size: 1.5rem;
+  color: aliceblue;
+}
+.button {
+  background-color: #818382; /* Green */
+  border: 2px solid #fff;
+  /* width: 3em; */
+  color: white;
+  padding: 0.4em;
+  margin: 0.4em;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  
+}
