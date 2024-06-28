@@ -1,5 +1,6 @@
 {
   "homepage": "https://badrKhouzima.github.io/niqash",
+  "base": "/niqash/",
   "name": "niqash-media",
   "private": true,
   "version": "0.0.0",
