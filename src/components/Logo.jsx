@@ -1,4 +1,4 @@
-import niqashLogo from "../assets/niqashLogo.png";
+import niqashLogo from "../assets/niqashPic.jpg";
 
 const Logo = () => {
   return (
