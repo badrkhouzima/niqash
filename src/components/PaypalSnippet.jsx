@@ -20,7 +20,7 @@ const PaypalSnippet = () => {
             alt="Donate with PayPal button"
             className="w-8/12 sm:w-9/12 md:w-10/12 lg:w-11/12"
             //  className="w-8/12 sm:w-11/12 md:w-9/12 lg:w-8/12 xl:w-6/12 "
-            //  style={{ maxWidth: "400px" }}
+             style={{ maxWidth: "400px" }}
           />
         </div>
       </form>
