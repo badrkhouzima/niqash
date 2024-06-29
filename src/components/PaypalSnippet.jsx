@@ -1,7 +1,7 @@
 import paypalButton from "../assets/PayPal-Donate-Button-High-Quality-PNG.png";
 const PaypalSnippet = () => {
   return (
-    <div className="py-3">
+    <div className="">
       <form
         //className="flex justify-center items-center"
         action="https://www.paypal.com/donate"
