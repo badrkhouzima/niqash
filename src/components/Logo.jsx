@@ -2,7 +2,7 @@ import niqashLogo from "../assets/niqashPic.jpg";
 
 const Logo = () => {
   return (
-    <div className="flex justify-center items-center py-10">
+    <div className="flex justify-center items-center py-3">
       <img
         src={niqashLogo}
         alt="logo"
